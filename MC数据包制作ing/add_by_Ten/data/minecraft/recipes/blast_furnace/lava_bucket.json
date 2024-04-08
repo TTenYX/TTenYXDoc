@@ -1,0 +1,14 @@
+{
+	"type":"blasting",
+	"group":"blast_furnace",
+	"ingredient":{
+		"item":"minecraft:iron_block"
+	},
+	"result":"minecraft:lava_bucket",
+	"experience":35.0,
+	"cookingtime":2000
+}
+/*
+ 高炉
+ 1 铁块 = 1 岩浆桶
+*/

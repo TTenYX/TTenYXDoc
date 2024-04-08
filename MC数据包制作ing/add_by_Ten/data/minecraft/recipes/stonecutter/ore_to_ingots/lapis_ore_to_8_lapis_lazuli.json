@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:lapis_ore"
+	},
+	"result":"minecraft:lapis_lazuli",
+	"count":8
+}
+/*
+切石机
+ 青金石矿石 = 8 青金石
+*/

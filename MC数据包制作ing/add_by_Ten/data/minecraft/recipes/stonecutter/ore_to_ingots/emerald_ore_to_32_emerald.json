@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:emerald_ore"
+	},
+	"result":"minecraft:emerald",
+	"count":32
+}
+/*
+切石机
+ 绿宝石矿石 =  32 绿宝石
+*/

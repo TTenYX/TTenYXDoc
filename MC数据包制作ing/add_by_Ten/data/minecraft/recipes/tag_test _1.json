@@ -1,0 +1,17 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"test",
+	"pattern":[
+		"  ",
+		" 5"
+	],
+	"key":{
+		"5":{
+			"tag":"minecraft:t_leaves"
+		}
+	},
+	"result":{
+		"item":"minecraft:nether_star",
+		"count":1
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:nether_gold_ore"
+	},
+	"result":"minecraft:gold_ingot",
+	"count":4
+}
+/*
+切石机
+ 下界金矿石 = 4 金锭
+*/
+

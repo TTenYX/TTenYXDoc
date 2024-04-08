@@ -1,0 +1,25 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"crafting_table",
+	"pattern":[
+		"TTT",
+		"TYT",
+		"TTT"
+	],
+	"key":{
+		"T":{
+			"item":"minecraft:bone"
+		},
+		"Y":{
+			"item":"minecraft:bone_block"
+		}
+	},
+	"result":{
+		"item":"minecraft:skeleton_skull",
+		"count":1
+	}
+}
+/*
+ 有序合成
+ 8 骨头 + 1 骨块= 1 骷髅头颅
+*/

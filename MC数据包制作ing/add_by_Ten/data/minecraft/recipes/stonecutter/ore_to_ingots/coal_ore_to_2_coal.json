@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:coal_ore"
+	},
+	"result":"minecraft:coal",
+	"count":2
+}
+/*
+切石机
+ 煤矿石 =  2 煤炭
+*/

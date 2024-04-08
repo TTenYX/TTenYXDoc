@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "wool",
+  "ingredient": {
+    "tag": "minecraft:wool"
+  },
+  "result": "minecraft:black_wool",
+  "count": 64
+}
+/*
+切石机
+ 任意羊毛 =  64 黑色羊毛
+*/

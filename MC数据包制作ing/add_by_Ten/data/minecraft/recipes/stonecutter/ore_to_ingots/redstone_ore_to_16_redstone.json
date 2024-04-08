@@ -1,0 +1,14 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:redstone_ore"
+	},
+	"result":"minecraft:redstone",
+	"count":16
+}
+/*
+切石机
+ 红石矿石 = 16 红石
+*/
+

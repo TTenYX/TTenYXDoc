@@ -1,0 +1,2 @@
+配方生成器
+https://misode.github.io/recipe/

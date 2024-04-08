@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:gravel"
+	},
+	"result":"minecraft:flint",
+	"count":1
+}
+/*
+ 切石机
+ 砂砾 = 1 燧石
+*/

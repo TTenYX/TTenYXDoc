@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:gold_ore"
+	},
+	"result":"minecraft:gold_ingot",
+	"count":4
+}
+/*
+切石机
+ 金矿石 = 4 金锭
+*/

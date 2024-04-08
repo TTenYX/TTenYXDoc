@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:nether_quartz_ore"
+	},
+	"result":"minecraft:quartz",
+	"count":16
+}
+/*
+切石机
+ 下界石英矿石 = 16 下界石英
+*/

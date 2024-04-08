@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:iron_ore"
+	},
+	"result":"minecraft:iron_ingot",
+	"count":4
+}
+/*
+切石机
+ 铁矿石 = 4 铁锭
+*/

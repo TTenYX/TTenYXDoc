@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"tag":"minecraft:wooden_fences"
+	},
+	"result":"minecraft:stick",
+	"count":3
+}
+/*
+ 切石机
+ 木质栅栏 = 3 木棍
+*/

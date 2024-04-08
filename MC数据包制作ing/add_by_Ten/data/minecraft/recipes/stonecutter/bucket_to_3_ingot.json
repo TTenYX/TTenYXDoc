@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:bucket"
+	},
+	"result":"minecraft:iron_ingot",
+	"count":3
+}
+/*
+ 切石机
+ 1 桶 = 3 铁锭
+*/

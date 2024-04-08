@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "wool",
+  "ingredient": {
+    "tag": "minecraft:wool"
+  },
+  "result": "minecraft:magenta_wool",
+  "count": 64
+}
+/*
+切石机
+ 任意羊毛 =  64 品红色羊毛
+*/

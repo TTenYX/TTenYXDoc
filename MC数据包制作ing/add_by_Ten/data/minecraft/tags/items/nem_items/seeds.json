@@ -1,0 +1,14 @@
+{
+    "values":[
+		"minecraft:wheat_seeds",
+        "minecraft:melon_seeds",
+        "minecraft:pumpkin_seeds",
+        "minecraft:beetroot_seeds",
+        "minecraft:carrot",
+        "minecraft:potato",
+		"minecraft:cocoa_beans"
+    ]
+}
+/*
+各种种子
+*/

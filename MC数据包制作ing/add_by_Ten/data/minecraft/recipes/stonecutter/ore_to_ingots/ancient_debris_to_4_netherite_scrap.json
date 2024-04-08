@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:ancient_debris"
+	},
+	"result":"minecraft:netherite_scrap",
+	"count":4
+}
+/*
+切石机
+ 远古残骸 = 4 下界合金碎片
+*/

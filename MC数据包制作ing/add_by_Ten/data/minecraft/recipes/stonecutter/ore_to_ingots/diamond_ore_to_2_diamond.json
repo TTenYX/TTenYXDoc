@@ -1,0 +1,13 @@
+{
+	"type":"stonecutting",
+	"group":"stonecutter",
+	"ingredient":{
+		"item":"minecraft:diamond_ore"
+	},
+	"result":"minecraft:diamond",
+	"count":2
+}
+/*
+切石机
+ 钻石矿石 =  2 钻石
+*/

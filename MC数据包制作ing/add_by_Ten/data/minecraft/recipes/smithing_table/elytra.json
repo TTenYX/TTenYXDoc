@@ -1,0 +1,16 @@
+{
+	"type":"smithing",
+	"base":{
+		"item":"minecraft:nether_star"
+	},
+	"addition":{
+		"item":"minecraft:netherite_ingot"
+	},
+	"result":{
+		"item":"minecraft:elytra"
+	}
+}
+/*
+ 锻造台
+ 1 下界之星 + 1 下界合金锭 = 1 鞘翅
+*/

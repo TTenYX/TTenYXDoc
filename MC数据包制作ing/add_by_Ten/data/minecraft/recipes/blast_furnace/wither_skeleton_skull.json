@@ -1,0 +1,14 @@
+{
+	"type":"blasting",
+	"group":"blast_furnace",
+	"ingredient":{
+		"item":"minecraft:skeleton_skull"
+	},
+	"result":"minecraft:wither_skeleton_skull",
+	"experience":100.0,
+	"cookingtime":2000
+}
+/*
+ 高炉
+ 1 骷髅头颅 = 1 凋零骷髅头颅
+*/

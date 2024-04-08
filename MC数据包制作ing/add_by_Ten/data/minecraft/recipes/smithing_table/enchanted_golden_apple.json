@@ -1,0 +1,16 @@
+{
+	"type":"smithing",
+	"base":{
+		"item":"minecraft:golden_apple"
+	},
+	"addition":{
+		"item":"minecraft:netherite_ingot"
+	},
+	"result":{
+		"item":"minecraft:enchanted_golden_apple"
+	}
+}
+/*
+ 锻造台
+ 1 金苹果 + 1 下界合金锭 = 1 附魔金苹果
+*/

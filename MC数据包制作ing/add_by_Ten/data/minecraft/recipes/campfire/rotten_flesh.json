@@ -1,0 +1,14 @@
+{
+	"type":"campfire_cooking",
+	"group":"campfire",
+	"ingredient":{
+		"item":"minecraft:leather"
+	},
+	"result":"minecraft:rotten_flesh",
+	"experience":0.35,
+	"cookingtime":200
+}
+/*
+ 营火
+ 1 腐肉 = 1 皮革
+*/

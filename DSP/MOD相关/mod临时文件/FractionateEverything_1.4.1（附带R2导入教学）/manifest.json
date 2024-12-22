@@ -1,0 +1,11 @@
+{
+    "name": "FractionateEverything",
+    "version_number": "1.4.1",
+    "website_url": "https://github.com/MengLeiFudge/MLJ_DSPmods",
+    "description": "万物皆可分馏，尽情享受分馏的乐趣吧！Everything can be fractionated, have fun with fractionation!",
+    "dependencies": [
+        "xiaoye97-BepInEx-5.4.17",
+        "xiaoye97-LDBTool-3.0.1",
+        "CommonAPI-CommonAPI-1.6.5"
+    ]
+}
